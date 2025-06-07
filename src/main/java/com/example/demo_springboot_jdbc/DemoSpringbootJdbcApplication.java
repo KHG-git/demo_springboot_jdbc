@@ -1,3 +1,7 @@
+/*
+JPA 테스트 추가
+ */
+
 package com.example.demo_springboot_jdbc;
 
 import org.springframework.boot.SpringApplication;
