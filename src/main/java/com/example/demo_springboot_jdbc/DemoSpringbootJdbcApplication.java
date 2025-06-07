@@ -1,5 +1,7 @@
 /*
 JPA 테스트 추가
+
+psql -U kang -d springboot
  */
 
 package com.example.demo_springboot_jdbc;

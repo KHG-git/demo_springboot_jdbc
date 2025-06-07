@@ -1,0 +1,1 @@
+alter table if exists account add column activate boolean not null;

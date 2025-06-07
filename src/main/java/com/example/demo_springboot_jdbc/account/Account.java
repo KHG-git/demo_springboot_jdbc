@@ -16,6 +16,16 @@ public class Account {
 
     private String password;
 
+    private boolean activate;
+
+    public boolean isActivate() {
+        return activate;
+    }
+
+    public void setActivate(boolean activate) {
+        this.activate = activate;
+    }
+
     public String getEmail() {
         return email;
     }
